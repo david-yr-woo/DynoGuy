@@ -9,7 +9,7 @@
 using namespace std;
 
 const int MAX_CACTUS_DISTANCE = 40;
-const int MIN_CACTUS_DISTANCE = 3;
+const int MIN_CACTUS_DISTANCE = 5;
 const int MAX_CACTUS_HEIGHT = 3;
 const int MIN_CACTUS_HEIGHT = 1;
 const int DINO_LOCATION = 5;
